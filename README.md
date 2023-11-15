@@ -3,7 +3,7 @@
 
 Оставлю базовое сообщение снизу 
 
-> «Читай, Вова!»
+> «Читай, ~~Вова~~ Михаил!»
 
 
 A starter game in Flutter with all the bells and whistles
